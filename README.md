@@ -7,8 +7,7 @@ Sanjit C. Debnath1,2,†, Ashley G. Bell3, Jamie McMurtrie1,2, Ben Temperton1, C
 3 Section of Nutrition, Department of Metabolism, Digestion and Reproduction, Faculty of Medicine, Imperial College London, Hammersmith Campus, Du Cane Road, London, W12 0NN
 
 **Correspondence**
-Sanjit C. Debnath
-Charles R. Tyler
+Sanjit C. Debnath & Charles R. Tyler
 
 #Abstract
 
@@ -23,4 +22,4 @@ Charles R. Tyler
 # Graphical abstract
 ![image](https://github.com/user-attachments/assets/6cf2f375-9513-4d6e-b8b8-37bc8f0041b7)
 
-Asystematic overview of sampling, data analysis and key findings. Illustration created in BioRender. 
+A systematic overview of sampling, data analysis and key findings. Illustration created in BioRender. 
