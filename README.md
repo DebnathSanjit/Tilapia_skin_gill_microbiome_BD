@@ -9,7 +9,7 @@ Sanjit C. Debnath<sup>1,2,†</sup>, Ashley G. Bell<sup>3</sup>, Jamie McMurtrie
 **<sup>†</sup>Corresponding authors**
 Sanjit C. Debnath & Charles R. Tyler
 
-##Abstract
+## Abstract
 
 **Background**: Tilapia is one of the most popular finfish in aquaculture, but various emerging infectious diseases are limiting the growth of the tilapia aquaculture industry globally. The external mucosal microbiomes of fish act as a first line of defence for maintaining host health, however, how skin and gill microbiomes differ between healthy and naturally infected tilapia remains poorly understood. Here we employed 16S rRNA and 18S rRNA high-throughput metabarcoding to characterise the tilapia skin, gill, and water microbiome from ponds reported with diseased and non-diseased conditions and to investigate signatures of microbial dysbiosis related to health conditions. 
 
@@ -22,4 +22,4 @@ Sanjit C. Debnath & Charles R. Tyler
 ## Graphical abstract
 ![image](https://github.com/user-attachments/assets/6cf2f375-9513-4d6e-b8b8-37bc8f0041b7)
 
-A systematic overview of sampling, data analysis and key findings. Illustration created in BioRender.com. 
+A systematic overview of sampling, data analysis and key findings. Illustration created in [BioRender.com](https://app.biorender.com/). 
