@@ -1,12 +1,12 @@
 # Skin and gill microbiome profiles and network structures in farmed tilapia (_Oreochromis niloticus_) and their relationships with health conditions
 
-Sanjit C. Debnath<sup>1,2,†</sup>, Ashley G. Bell3, Jamie McMurtrie1,2, Ben Temperton1, Charles R. Tyler1,2, †
+Sanjit C. Debnath<sup>1,2,†</sup>, Ashley G. Bell<sup>3</sup>, Jamie McMurtrie<sup>1,2</sup>, Ben Temperton<sup>1</sup>, Charles R. Tyler<sup>1,2,†</sup>
 
-1 Faculty of Health and Life Sciences, University of Exeter, Exeter EX4 4QD, Devon, UK. 
-2 Sustainable Aquaculture Futures, University of Exeter, Exeter EX4 4QD, Devon, UK. 
-3 Section of Nutrition, Department of Metabolism, Digestion and Reproduction, Faculty of Medicine, Imperial College London, Hammersmith Campus, Du Cane Road, London, W12 0NN
+<sup>1</sup> Faculty of Health and Life Sciences, University of Exeter, Exeter EX4 4QD, Devon, UK. 
+<sup>2</sup> Sustainable Aquaculture Futures, University of Exeter, Exeter EX4 4QD, Devon, UK. 
+<sup>3</sup> Section of Nutrition, Department of Metabolism, Digestion and Reproduction, Faculty of Medicine, Imperial College London, Hammersmith Campus, Du Cane Road, London, W12 0NN
 
-**Correspondence**
+**<sup>†</sup>Corresponding authors**
 Sanjit C. Debnath & Charles R. Tyler
 
 ##Abstract
